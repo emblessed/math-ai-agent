@@ -1,11 +1,3 @@
-models
-node_modules
-.idea
+node_modules/
 .env
-internal
-ui
-*.txt
-node-llama-docs
-
-frontend*
-VIDEO_SCRIPT.md
+logs/
